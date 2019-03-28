@@ -1,1 +1,1 @@
-variations_cotes_wina
+# Test récupératio côtes Winamax
